@@ -35,4 +35,13 @@ pip install -r requirements.txt
 python irctc_agent.py
 
 ## Usage
-Simply run the script to launch the chat interface. Type your queries or use voice commands as needed.
+Simply run the script to launch the chat interface.
+You will be prompted for gemini 2.0 API Key. You can get this from Ai Studio website of google...https://aistudio.google.com/apikey
+
+<img width="278" alt="image" src="https://github.com/user-attachments/assets/44542052-3d97-4555-98aa-5cbfa28f9464" />
+
+After that , you will receive another popup asking if you want to show your screen or your camera or none.
+
+<img width="89" alt="image" src="https://github.com/user-attachments/assets/510f7855-93b2-4ee1-9304-d48dda5871f9" />
+
+After selecting it , you can start to type your queries or use voice commands as needed.
