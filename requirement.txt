@@ -1,0 +1,8 @@
+opencv-python
+pyaudio
+Pillow
+mss
+requests
+google-genai
+taskgroup
+exceptiongroup
