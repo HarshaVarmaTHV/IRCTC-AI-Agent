@@ -1,6 +1,6 @@
 # IRCTC Train Ticket Status Agent
 
-A multimodal AI agent built using Google’s Gemini 2.0 Live model. This application listens, talks, and even “sees” your screen to guide you with train ticket information and check PNR status using a Google Cloud Function.
+A multimodal AI agent built using Google’s Gemini 2.0 Live model. This application listens, talks, and even “sees” your screen to guide you with train ticket information. Also it can automatically check PNR status by triggering Google Cloud Function API in the background and answer questions related to it.
 
 ## Features
 
