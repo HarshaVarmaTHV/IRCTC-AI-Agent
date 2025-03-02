@@ -25,7 +25,7 @@ IRCTC-AI-Agent/
 
 
 
-## Installation
+## Installation (Tested with Windows)
 
 1. **Clone the Repository:**
 
