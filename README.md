@@ -5,9 +5,13 @@ A multimodal AI agent built using Google’s Gemini 2.0 Live model. This applica
 ## Features
 
 - **Multimodal Interaction**: Uses audio input/output and visual screen capture.
-- **Function Calling**: Integrates with a cloud function to check IRCTC ticket status.
+- **Function Calling**: Securely Integrates with a cloud function to check IRCTC ticket status.
 - **Easy-to-Use GUI**: Built with Tkinter for interactive chat.
 - **Powered by Gemini 2.0 Live**: Leverages Google’s latest Gemini model for real-time interactions.
+- **Interruptible Audio Conversation**: Allows users to pause, resume, or interrupt the conversation seamlessly.
+- **Multilingual Understanding**: Recognizes and responds in multiple languages, making it accessible to a diverse user base.
+- **Low-Latency Performance**: Optimized for fast, responsive interactions even with real-time audio and visual processing.
+- **Expandable Architecture**: Easily integrates with additional tools or APIs to extend functionality in the future.
 
 ## File Structure
 
