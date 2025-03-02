@@ -13,6 +13,5 @@ A multimodal AI agent built using Google’s Gemini 2.0 Live model. This applica
 
 IRCTC-AI-Agent/
 ├── README.md                      # Project documentation
-├── LICENSE                        # Open source license
 ├── requirements.txt               # Python dependencies
 ├── irctc_agent.py                 # All-in-one application code including gemini 2.0 calling , recieving , ticket status function calling and tkinter simple UI
